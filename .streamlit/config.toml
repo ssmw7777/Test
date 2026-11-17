@@ -1,0 +1,13 @@
+[theme]
+base = "light"
+primaryColor = "#12306b"          # 안전 남색 (HTML 버전과 같은 색)
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#eef1f7"
+textColor = "#141a2e"
+baseFontSize = 16
+
+[client]
+toolbarMode = "viewer"            # 응시자에게 개발용 메뉴(Deploy 등)를 숨김
+
+[browser]
+gatherUsageStats = false
